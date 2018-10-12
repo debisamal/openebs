@@ -21,7 +21,7 @@ http://www.openebs.io/
 
 ## Scalability
  
-OpenEBS can scale to include an arbitrarily large number of containerized storage controllers. Kubernetes is used to provide fundamental pieces such as using etcd for inventory.  OpenEBS scales to the extent your Kubernetes scales.  
+OpenEBS can scale to include an arbitrarily large number of containerized storage controllers. Kubernetes is used to provide fundamental pieces such as using etcd for inventory.OpenEBS scales to the extent your Kubernetes scales.  
 
 ## Installation and Getting Started
  
@@ -59,6 +59,7 @@ OpenEBS welcomes your feedback and contributions in any form possible.
   - See [open issues](https://github.com/openebs/openebs/labels)
   - See [contributing guide](./CONTRIBUTING.md)
   - Want to join our community, [check this out](./community/README.md). 
+
 
 ## Show me the Code
 
